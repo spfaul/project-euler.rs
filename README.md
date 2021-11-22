@@ -1,6 +1,6 @@
-# project-euler.rs
+# ✨ project-euler.rs ✨
 
-Solving [Project Euler](https://projecteuler.net) problems in [Rust](https://rust-lang.org)
+Solving [Project Euler](https://projecteuler.net) problems in [Rust](https://rust-lang.org), because I enjoy torturing myself.
 
 For educational purposes. 
 > Warning: Unoptimized O(n^2) solutions ahead! *Oh, the humanity!*
